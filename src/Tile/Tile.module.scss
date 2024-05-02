@@ -1,0 +1,16 @@
+@import "../vars.scss";
+
+.tile{
+    height: 250px;
+    width: 250px;
+    border: 5px $mauve solid;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    height: 85%;
+    width: 85%;
+}

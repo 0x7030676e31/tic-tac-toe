@@ -1,0 +1,10 @@
+@import "./vars.scss";
+
+:root{
+  background-color: $base;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+}
