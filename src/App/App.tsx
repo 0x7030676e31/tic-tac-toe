@@ -8,9 +8,9 @@ function App(props: { player: string }) {
   const [shapes, setShapes] = useState<Tshape[]>([
     null,
     null,
-    "circle",
     null,
-    "cross",
+    null,
+    null,
     null,
     null,
     null,
